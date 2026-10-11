@@ -1,0 +1,8 @@
+application_no,application_date,title,abstract,applicant,applicant_address,longitude,latitude,coordinate_system,value_score
+DEMO-A01,20191220,面向制造业的人工智能质量监测系统,使用深度学习识别异常数据,Example Lab A,illustrative address,121.4737,31.2304,wgs84,20
+DEMO-B01,20200103,大数据分析及监测方法,大数据应用于排污预测,Example Lab B,illustrative address,121.4750,31.2298,wgs84,30
+DEMO-C01,20200105,云计算资源调度装置,基于云计算分配算力,Example Lab C,illustrative address,121.4900,31.2340,wgs84,10
+DEMO-D01,20200107,区块链数据登记方法,用于数据确认,Example Lab D,illustrative address,121.5600,31.2300,wgs84,40
+DEMO-E01,20200108,5G通信网络切片优化,优化无线带宽与能耗,Example Lab E,illustrative address,121.4720,31.2299,wgs84,
+DEMO-X01,20200109,普通水泵叶轮结构,提升叶轮寿命,Example Lab F,illustrative address,121.4738,31.2308,wgs84,15
+DEMO-A02,20200110,机器学习生产诊断,自动识别设备故障,Example Lab G,illustrative address,121.5100,31.2490,wgs84,12

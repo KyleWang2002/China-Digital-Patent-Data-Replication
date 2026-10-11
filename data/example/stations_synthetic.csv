@@ -1,0 +1,4 @@
+station_id,station_name,longitude,latitude,coordinate_system
+DEMO-S001,Illustrative Central Station,121.4737,31.2304,wgs84
+DEMO-S002,Illustrative East Station,121.5190,31.2400,wgs84
+DEMO-S003,Illustrative Far Station,121.7500,31.2000,wgs84
